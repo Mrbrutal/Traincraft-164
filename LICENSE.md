@@ -23,7 +23,7 @@
   * You may create, publish, and earn revenue from maps that require Traincraft. You may distribute Traincraft with your map if you meet the Public Mod Pack requirements defined below. If you require your users to install Traincraft, provide a link to the [Traincraft Website](http://traincraft-mod.com/).
   
 ## Distribution
-  * Except in the case of Public Mod Packs, you may not publicly distribute Traincraft on another site without Mrbrutal's explicit permission. And if you have permission you must include a link to the [Traincraft Blog](http://traincraft-mod.com/) and [Blog](http://blog.meansoft.si/) and use the download links provided there unless you receive permission to do otherwise. Proper attribution must be provided regardless and you must post a link to this [License](TODO-add).
+  * Except in the case of Public Mod Packs, you may not publicly distribute Traincraft on another site without Mrbrutal's explicit permission. And if you have permission you must include a link to the [Traincraft Blog](http://traincraft-mod.com/) and [Blog](http://blog.meansoft.si/) and use the download links provided there unless you receive permission to do otherwise. Proper attribution must be provided regardless and you must post a link to this [License](https://github.com/Mrbrutal/Traincraft-164/blob/master/LICENSE.md).
 
 ## Public Mod Packs
   * This section pertains **ONLY** to publicly available mod packs. The section does not apply to Private Server Packs as defined previously in the Usage Section.
@@ -33,7 +33,7 @@
     * You are **REQUIRED** to **PUBLICLY** post a licensing page with entries for all the mods currently in your mod pack (links to licenses, images of PMs, posts by devs, etc...). This is the single most important requirement you must meet. If you cannot or will not do this, you cannot use Traincraft in your mod pack.
     * You may not sell the mod pack.
     * You are not allowed to use the latest series of Traincraft for at least a week after it's release, to protect against game-breaking problems or bugs.
-    * You must provide a link to the [Traincraft Blog](http://blog.meansoft.si/), [Traincraft Website](http://traincraft-mod.com) and [Traincraft License](TODO-add) on your website.
+    * You must provide a link to the [Traincraft Blog](http://blog.meansoft.si/), [Traincraft Website](http://traincraft-mod.com) and [Traincraft License](https://github.com/Mrbrutal/Traincraft-164/blob/master/LICENSE.md) on your website.
     * Beta builds are never to be packaged as part of a public mod pack. Only public versions of the mod can be used in Public mod packs.
 
 ## Source
