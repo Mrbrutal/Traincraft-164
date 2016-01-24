@@ -1,23 +1,24 @@
-# ForgeGradle
-/.gradle
-/build
-/run
-/libs
-
-# Eclipse
-/.eclipse
+build/
+eclipse/
+CREDITS-fml.txt
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+README.txt
+.gradle/
+.nb-gradle/
+.nb-gradle-properties
+.settings/
 .classpath
 .project
-/.settings
-/bin
-
-# IntelliJ
-/.idea
+/gradle.properties
+push/
+.idea/
 *.iml
+run/
+private/
 *.ipr
 *.iws
-/out
-
-# Mac Stuff
-.DS_Store
-*.command
+out/
+bin/
+classes/
