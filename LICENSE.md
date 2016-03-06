@@ -55,3 +55,6 @@
   
   * You may **NOT** use Traincraft Art Assets in other projects **unless** the project is intended to operate alongside Traincraft or is the Official continuation of Traincraft. Examples are Addons and InterMod Integration. Art assests include and are not limited to: Textures, Models(.obj or source code), Sounds, Any other art part of Traincraft.
   
+  * All contributions to the Official Traincraft Project must be covered by a Contributor Licensing Agreement signed by the contributor.
+  
+  
