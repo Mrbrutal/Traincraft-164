@@ -44,7 +44,6 @@ There will also be a jenkins build engine available for setting things up, and b
 
 Traincraft is licensed under a custom usage license tailored specifically for the project. It can be read [here](https://github.com/Mrbrutal/Traincraft-164/blob/master/LICENSE.md).
 
- * Key things to keep in mind:
   * You **MAY** use snippets of Traincraft Code posted on the Official Github in your own projects, but only if your project consists of less than 25% of Traincraft derived code. You must give credit to the Traincraft Project for the code used, including a link to the Github Project. Put this in your class file headers that contain Traincraft code, in your readme, and on the main download page.
   * You **must** give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
   * You **MAY** fork and edit the Github Project for the purpose of contributing to the Official Traincraft Project.
