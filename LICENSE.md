@@ -37,9 +37,8 @@
     * Beta builds are never to be packaged as part of a public mod pack. Only public versions of the mod can be used in Public mod packs.
 
 ## Source
-  * You **MAY** fork and edit the Github Project for the purpose of contributing to the Official Traincraft Project.
   
-  * You **MAY** you remix, transform, or build upon the material, but you **MUST** distribute your contributions under the same license as the original. 
+  * You **MAY** you remix, transform, or build upon the **sources** material, but you **MUST** distribute your contributions under the same license as the original. Forks and edits the Github Project **SHOULD** be for the purpose of contributing to the Official Traincraft Project.
   
   * You **MUST** give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
   
