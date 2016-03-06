@@ -37,17 +37,15 @@
     * Beta builds are never to be packaged as part of a public mod pack. Only public versions of the mod can be used in Public mod packs.
 
 ## Source
-  * You **MAY** use snippets of Traincraft Code posted on the Official Github in your own projects, but only if your project consists of less than 25% of Traincraft derived code. You must give credit to the Traincraft Project for the code used, including a link to the Github Project. Put this in your class file headers that contain Traincraft code, in your readme, and on the main download page.
+  * You **MAY** fork and edit the Github Project for the purpose of contributing to the Official Traincraft Project.
+  
+  * You **MAY** you remix, transform, or build upon the material, but you **MUST** distribute your contributions under the same license as the original. 
   
   * You **MUST** give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
   
-  * You **MAY** fork and edit the Github Project for the purpose of contributing to the Official Traincraft Project.
+  * Contributors should work along to distribute **only one** Official Traincraft build created from a fork. 
   
-  * Contributors **SHOULD** work along to distribute **ONLY ONE** Official Traincraft build created from a fork. 
-  
-  * If you remix, transform, or build upon the material, you **MUST** distribute your contributions under the same license as the original. 
-  
-  * Official website is available for distribution of the **Official Traincraft builds**: contact spitfire4466@gmail.com
+  * Official website is available for distribution of the Official Traincraft builds: contact spitfire4466@gmail.com
   
   * Unofficial builds may **NOT** be named or distributed under the name "Traincraft" but **MUST** contain a statement explicitely showing it is a derivative of the Official Traincraft mod.
   
@@ -56,5 +54,4 @@
   * You may **NOT** use Traincraft Art Assets in other projects **unless** the project is intended to operate alongside Traincraft or is the Official continuation of Traincraft. Examples are Addons and InterMod Integration. Art assests include and are not limited to: Textures, Models(.obj or source code), Sounds, Any other art part of Traincraft.
   
   * All contributions to the Official Traincraft Project must be covered by a Contributor Licensing Agreement signed by the contributor.
-  
   
