@@ -40,7 +40,7 @@ There will also be a jenkins build engine available for setting things up, and b
 
 Traincraft is licensed under a custom usage license tailored specifically for the project. It can be read [here](https://github.com/Mrbrutal/Traincraft-164/blob/master/LICENSE.md).
 
-  * You **MAY** you remix, transform, or build upon the material, but you **MUST** distribute your contributions under the same license as the original. Forks and edits the Github Project **SHOULD** be for the purpose of contributing to the Official Traincraft Project.
+  * You **MAY** you remix, transform, or build upon the **sources** material, but you **MUST** distribute your contributions under the same license as the original. Forks and edits the Github Project **SHOULD** be for the purpose of contributing to the Official Traincraft Project.
   * You **MUST** give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
   * Contributors should work along to distribute **only one** Official Traincraft build created from a fork. 
   * Official website is available for distribution of the Official Traincraft builds: contact spitfire4466@gmail.com
